@@ -1,0 +1,21 @@
+.container-fluid {
+    background-color: rgba(241, 245, 247, 0.776) !important;
+}
+
+.jumbotron {
+    background-color: rgb(245, 165, 61) !important;
+    border-color: #F6E3CE !important;
+}
+
+img {
+    width: 100%;
+}
+
+button {
+    margin-right: 5px;
+    font-size: 20px
+}
+
+#display-topics {
+    padding-bottom: 25px;
+}
